@@ -12,5 +12,5 @@ A few notes:
 - Print every possible shift/rotation--since there are 26 letters in your alphabet, there will be 26 possible shifts
 - One of these shifts will be readable--if so, you're done!
 
-## Secret message
-The secret message is `elon musk cannot dunk`!
+## Decoded message
+The decoded message is `elon musk cannot dunk`.
